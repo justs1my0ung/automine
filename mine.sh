@@ -1,6 +1,6 @@
 apt update&&apt upgrade -y 
 pkg install git build-essential cmake
-git clone https://github.com/xmrig/xmrig -y
+git clone https://github.com/xmrig/xmrig
 cd xmrig
 mkdir build
 cd build
